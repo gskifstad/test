@@ -1,3 +1,3 @@
 print('Hello world')
 print('dsfgfhg')
-print('printing from local dev')
+print('another one from platform')
