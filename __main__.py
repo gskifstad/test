@@ -1,3 +1,3 @@
 print('Hello world')
-print('dsfgfhg')
+print('a real word')
 print('another one from platform')
