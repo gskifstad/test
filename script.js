@@ -1,5 +1,4 @@
 // const inherited_role_id = 35;
-123
 // const role_id = 22;
 
 try {
@@ -11,4 +10,4 @@ try {
 } catch (err) {
   log(err);
 }
-ccc
+cvxvcx
