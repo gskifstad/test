@@ -8,6 +8,6 @@ try {
   log("success", resp);
   // log(`successfully added ${inherited_role_id} as an inherited role for Role#${role_id}`);
 } catch (err) {
-  log(err);
-}jker    kdkdccc      kdj  jjfkfkj  
-cvxvcxffff   
+  log("OH NO", err);
+}
+cvxvcx
