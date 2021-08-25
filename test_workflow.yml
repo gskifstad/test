@@ -1,0 +1,7 @@
+version: '2.0'
+workflow:
+  tasks:
+    print_from_job:
+      action: civis.run_job
+      input:
+        job_id: 64033198
